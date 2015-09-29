@@ -15,6 +15,7 @@ Input-data:
 
 Run:
   execute command: java -jar ecoie.jar config/config
+  
   before you run ecoie, change the path in the config file first, MENTION, the path should not contain ":"
 
 Config file:
