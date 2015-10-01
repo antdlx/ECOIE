@@ -1,0 +1,7 @@
+confdir:config/
+encoding:UTF-8
+#segmented and POS tagged input file, one sentence each line is better.
+filein:test/example-input
+frethreshold:9
+needtimedetail:1
+phrasetable:config/phrase-table

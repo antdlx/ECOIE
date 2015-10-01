@@ -1,0 +1,11 @@
+noun=( P n3 DEC VV ) | ( n3 LC ? DEG n3 ) | n3
+n3=dis1 ? n2 ( ( ( LC ? DEG ) | con ) n2 ) * ETC ? pos1 ?
+n2=dis1 ? n1 pos1 ?
+dis1=dis ( con ? dis ) *
+dis=( AD * JJ DEG ? ) | ( c0 M ? DEG ? ) | ( NT + DEG ) | ( AD * VA + DEC )
+pos1=pos ( con ? pos ) *
+pos=( ( OD | DT ) M ? ) | ( CD M )
+con=CC | DUN
+n1=( n0 + ) | ( YIN ( . * ? ) YIN ) | ( SYIN ( . * ? ) SYIN ) | ( KUOL ( . * ? ) KUOR ) | ( SHUL ( . * ? ) SHUR )
+n0=NR | NN | PN
+c0=CD | OD | DT

@@ -1,0 +1,1488 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<doc>
+<sentence id="1">
+	<origin_text>苹果MacBook（MB881CH/A）网络通信</origin_text>
+</sentence>
+<sentence id="2">
+	<origin_text>照薄层色谱法（附录ⅥB）试验，吸取上述两种溶液各5μl，分别点于同一硅胶G薄层板上，以环已烷-丙酮（4:1）为展开剂，展开，</origin_text>
+	<relation id="1" pred="吸取" pattern="SBV-n(A0)_Pred[吸取]_VOB-nx(A1)" syntax_pattern="SBV-n(A)_Pred[吸取]_VOB-nx(A)" taggedType="a" pred_id="11" tagged="false" instance="照薄_层_色谱法吸取上述两种溶液各5μl" feature="1-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="照薄层色谱法(Z)" node_id="10" head_word="照薄	层	色谱法" sem_cat="" >
+			<sub_pattern node_id="10" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="各5μl" node_id="19" head_word="l" sem_cat="" >
+			<sub_pattern node_id="19" sem_pattern="VOB-nx(A1)" syn_pattern="VOB-nx(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="3">
+	<origin_text>差异仅在于个别细节及条约的分条、顺序、译名、措词上，但不会对条约的基本内容和边界走向产生任何误解</origin_text>
+	<relation id="1" pred="在于" pattern="SBV-n(Dd)_Pred[在于]_VOB-f(A0)" syntax_pattern="SBV-n(A)_Pred[在于]_VOB-f(A)" taggedType="a" pred_id="2" tagged="false" instance="差异仅在于个别细节及条约的分条、顺序、译名、措词上" feature="1-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="差异" node_id="0" head_word="差异" sem_cat="Dd" >
+			<sub_pattern node_id="0" sem_pattern="SBV-n(Dd)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="分条、顺序、译名、措词上" node_id="15" head_word="上" sem_cat="" >
+			<sub_pattern node_id="15" sem_pattern="VOB-f(A0)" syn_pattern="VOB-f(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="4">
+	<origin_text>?在最后审判的场景中，真实生活中的艾尔?卡彭和艾略特?奈斯从来没有在他们的战争中面对面遇到过</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-f(A0)_Pred[de]_dobj-nr(Af)" syntax_pattern="nsubj-f(A)_Pred[de]_dobj-nr(A)" taggedType="h" pred_id="11" tagged="false" instance="真实生活中的艾尔?卡彭和艾略特?奈斯" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="真实生活中" node_id="10" head_word="中" sem_cat="" >
+			<sub_pattern node_id="10" sem_pattern="nsubj-f(A0)" syn_pattern="nsubj-f(A)" />
+		</argument>
+		<argument id="1" content="艾尔?卡彭和艾略特?奈斯" node_id="14" head_word="艾略特?奈斯" sem_cat="Af" >
+			<sub_pattern node_id="14" sem_pattern="dobj-nr(Af)" syn_pattern="dobj-nr(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="遇到" pattern="QUC-nr(Af)_ADV-在_POB-f(A0)_Pred[遇到]" syntax_pattern="QUC-nr(A)_ADV-在_POB-f(A)_Pred[遇到]" taggedType="a" pred_id="23" tagged="false" instance="艾尔?卡彭和艾略特?奈斯从来没有在他们的战争中面对面遇到" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="艾尔?卡彭和艾略特?奈斯" node_id="14" head_word="艾略特?奈斯" sem_cat="Af" >
+			<sub_pattern node_id="14" sem_pattern="QUC-nr(Af)" syn_pattern="QUC-nr(A)" />
+		</argument>
+		<argument id="1" content="战争中" node_id="21" head_word="中" sem_cat="" >
+			<sub_pattern node_id="21" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="17" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="5">
+	<origin_text>它的躯体变成一个比钻石还硬的巨大晶体——黑矮星而永存</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-r(Ba)_Pred[de]_dobj-n(Bk)" syntax_pattern="nsubj-r(A)_Pred[de]_dobj-n(A)" taggedType="a" pred_id="1" tagged="true" instance="它的躯体" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="它" node_id="0" head_word="它" sem_cat="Ba" >
+			<sub_pattern node_id="0" sem_pattern="nsubj-r(Ba)" syn_pattern="nsubj-r(A)" />
+		</argument>
+		<argument id="1" content="躯体" node_id="2" head_word="躯体" sem_cat="Bk" >
+			<sub_pattern node_id="2" sem_pattern="dobj-n(Bk)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="变成" pattern="SBV-n(Bk)_Pred[变成]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[变成]_VOB-n(A)" taggedType="a" pred_id="3" tagged="false" instance="躯体变成一个比钻石还硬的巨大晶体——黑矮星" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="躯体" node_id="2" head_word="躯体" sem_cat="Bk" >
+			<sub_pattern node_id="2" sem_pattern="SBV-n(Bk)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一个比钻石还硬的巨大晶体——黑矮星" node_id="14" head_word="矮星" sem_cat="" >
+			<sub_pattern node_id="14" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="6">
+	<origin_text>在按库存生产策略的类型中，客户基本上对最终产品规格的确定没有什么建议或要求，他们的投入很少，生产商生产的产品并不是为任何特定客户定制的，所以按库存生产的产品一般属于大众消费品</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Dd)_Pred[de]_dobj-n(A0)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="15" tagged="false" instance="最终产品规格的确定" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="最终产品规格" node_id="14" head_word="规格" sem_cat="Dd" >
+			<sub_pattern node_id="14" sem_pattern="nsubj-n(Dd)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="确定" node_id="16" head_word="确定" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="dobj-n(A0)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="没有" pattern="ADV-在_POB-f(A0)_SBV-n(Di)_ADV-对_POB-n(A1)_Pred[没有]_IOB-n(Df)" syntax_pattern="ADV-在_POB-f(A)_SBV-n(A)_ADV-对_POB-n(A)_Pred[没有]_IOB-n(A)" taggedType="a" pred_id="17" tagged="false" instance="类型中，客户基本上对最终产品规格的确定没有什么建议或要求" feature="0-1-0-1-0-0-0-1-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="类型中" node_id="7" head_word="中" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="1" content="客户" node_id="9" head_word="客户" sem_cat="Di" >
+			<sub_pattern node_id="9" sem_pattern="SBV-n(Di)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="2" content="确定" node_id="16" head_word="确定" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="POB-n(A1)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="11" sem_pattern="ADV-对" syn_pattern="ADV-对" />
+		</argument>
+		<argument id="3" content="要求" node_id="21" head_word="要求" sem_cat="Df" >
+			<sub_pattern node_id="21" sem_pattern="IOB-n(Df)" syn_pattern="IOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="is" pattern="SBV-n(Df)_Pred[is]_VOB-n(Dk)" syntax_pattern="SBV-n(A)_Pred[is]_VOB-n" taggedType="a" pred_id="21" tagged="true" instance="什么建议或要求" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="要求" node_id="21" head_word="要求" sem_cat="Df" >
+			<sub_pattern node_id="21" sem_pattern="SBV-n(Df)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="什么建议" node_id="19" head_word="建议" sem_cat="Dk" >
+			<sub_pattern node_id="21" sem_pattern="VOB-n(Dk)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="7">
+	<origin_text>2012-08-314.0更新内容：新增功能：1.两个内核同时升级：内置IE8内核，兼容性更好、网页加载速度更快、更安全</origin_text>
+	<relation id="1" pred="置" pattern="ADV-f(A0)_Pred[置]_VOB-n(Dd)" syntax_pattern="ADV-f(A)_Pred[置]_VOB-n(A)" taggedType="a" pred_id="17" tagged="false" instance="内置IE8内核" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="内" node_id="16" head_word="内" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="ADV-f(A0)" syn_pattern="ADV-f(A)" />
+		</argument>
+		<argument id="1" content="IE8内核" node_id="19" head_word="内核" sem_cat="Dd" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(Dd)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="8">
+	<origin_text>对此，有1500名学生在LSA大楼前等待一个小时，该大楼是校方办公室所在地</origin_text>
+	<relation id="1" pred="等待" pattern="ADV-在_POB-f(A0)_Pred[等待]_VOB-n(Ca)" syntax_pattern="ADV-在_POB-f(A)_Pred[等待]_VOB-n(A)" taggedType="a" pred_id="10" tagged="false" instance="LSA大楼前等待一个小时" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="LSA大楼前" node_id="9" head_word="前" sem_cat="" >
+			<sub_pattern node_id="9" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="6" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="1" content="一个小时" node_id="12" head_word="小时" sem_cat="Ca" >
+			<sub_pattern node_id="12" sem_pattern="VOB-n(Ca)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="是" pattern="SBV-n(Bn)_Pred[是]_VOB-n(Cb)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="16" tagged="true" instance="该大楼是校方办公室所在地" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="该大楼" node_id="15" head_word="大楼" sem_cat="Bn" >
+			<sub_pattern node_id="15" sem_pattern="SBV-n(Bn)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="校方办公室所在地" node_id="19" head_word="所在地" sem_cat="Cb" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(Cb)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="9">
+	<origin_text>6.2CAD/CAM（MasterCAM8.0）操作（例6.1零件MasterCAM8.0操作）</origin_text>
+	<relation id="1" pred="操作" pattern="SBV-ns(Cb)_ADV-nx(A0)_Pred[操作]" syntax_pattern="SBV-ns(A)_ADV-nx(A)_Pred[操作]" taggedType="a" pred_id="7" tagged="false" instance="/CAM（MasterCAM8.0）操作" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="/" node_id="2" head_word="/" sem_cat="Cb" >
+			<sub_pattern node_id="2" sem_pattern="SBV-ns(Cb)" syn_pattern="SBV-ns(A)" />
+		</argument>
+		<argument id="1" content="CAM" node_id="3" head_word="CAM" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="ADV-nx(A0)" syn_pattern="ADV-nx(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="10">
+	<origin_text>例如?硬度较低的石材需要用较为柔和的试剂?拖洗次数更频繁</origin_text>
+</sentence>
+<sentence id="11">
+	<origin_text>常务委员会分组会议审议法律案时，根据小组的要求，有关机关、组织应当派人介绍情况</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Di)_Pred[de]_dobj-n(Df)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="t" pred_id="10" tagged="true" instance="小组的要求" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-1-0-0-0-0-0-1-0-0">
+		<argument id="0" content="小组" node_id="9" head_word="小组" sem_cat="Di" >
+			<sub_pattern node_id="9" sem_pattern="nsubj-n(Di)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="要求" node_id="11" head_word="要求" sem_cat="Df" >
+			<sub_pattern node_id="11" sem_pattern="dobj-n(Df)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="审议" pattern="Pred[审议]_VOB-n(A0)_FOC-n(Ca)" syntax_pattern="Pred[审议]_VOB-n(A)_FOC-n(A)" taggedType="a" pred_id="4" tagged="false" instance="审议法律案时" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0" isDeStructure="true">
+		<argument id="0" content="法律案" node_id="5" head_word="法律案" sem_cat="" >
+			<sub_pattern node_id="5" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="4" sem_pattern="ATT-审议" syn_pattern="ATT-审议" />
+			<sub_pattern node_id="6" sem_pattern="FOC-n(Ca)" syn_pattern="FOC-n(A)" />
+		</argument>
+		<argument id="1" content="时" node_id="6" head_word="时" sem_cat="Ca" >
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="派" pattern="ADV-根据_POB-n(Df)_SBV-n(A0)_Pred[派]_VOB-n(A1)" syntax_pattern="ADV-根据_POB-n(A)_SBV-n(A)_Pred[派]_VOB-n(A)" taggedType="a" pred_id="18" tagged="false" instance="要求，有关机关、组织应当派人" feature="0-1-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="要求" node_id="11" head_word="要求" sem_cat="Df" >
+			<sub_pattern node_id="11" sem_pattern="POB-n(Df)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="8" sem_pattern="ADV-根据" syn_pattern="ADV-根据" />
+		</argument>
+		<argument id="1" content="有关机关、组织" node_id="16" head_word="组织" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="2" content="人" node_id="19" head_word="人" sem_cat="" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="12">
+	<origin_text>第一级：以覆盖全国的当地服务网（办事机构）为基础，直接面对用户形成快速反应系统；第二级：以本公司的技术实力雄厚为核心，形成对用户的技术支持系统；第三级：以密切合作的众多厂商为后盾，为用户提供最快的响应速度和最优质的服务</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Di)_Pred[de]_dobj-n(Dd)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="t" pred_id="6" tagged="true" instance="全国的当地服务网" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-1-0-0-0-0-0-1-0-0">
+		<argument id="0" content="全国" node_id="5" head_word="全国" sem_cat="Di" >
+			<sub_pattern node_id="5" sem_pattern="nsubj-n(Di)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="当地服务网" node_id="8" head_word="服务网" sem_cat="Dd" >
+			<sub_pattern node_id="8" sem_pattern="dobj-n(Dd)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="为" pattern="ADV-以_POB-n(Dd)_Pred[为]_VOB-n(A0)" syntax_pattern="ADV-以_POB-n(A)_Pred[为]_VOB-n(A)" taggedType="a" pred_id="13" tagged="false" instance="当地服务网（办事机构）为基础" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="当地服务网" node_id="8" head_word="服务网" sem_cat="Dd" >
+			<sub_pattern node_id="8" sem_pattern="POB-n(Dd)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="3" sem_pattern="ADV-以" syn_pattern="ADV-以" />
+		</argument>
+		<argument id="1" content="基础" node_id="14" head_word="基础" sem_cat="" >
+			<sub_pattern node_id="14" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="13">
+	<origin_text>此外，为增加推广业绩，学生成功邀请企业注册后，被邀请企业页面的广告销售记录也将计入该学生的账户下</origin_text>
+	<relation id="2" pred="邀请" pattern="SBV-n(Af)_Pred[邀请]_VOB-n(Dm)" syntax_pattern="SBV-n(A)_Pred[邀请]_VOB-n(A)" taggedType="a" pred_id="9" tagged="true" instance="学生成功邀请企业" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="学生" node_id="7" head_word="学生" sem_cat="Af" >
+			<sub_pattern node_id="7" sem_pattern="SBV-n(Af)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="企业" node_id="10" head_word="企业" sem_cat="Dm" >
+			<sub_pattern node_id="10" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="14">
+	<origin_text>病原及发病特点：引起辣椒病毒病的病毒有多种，但主要有黄瓜花叶病毒和烟草花叶病毒</origin_text>
+	<relation id="1" pred="有" pattern="SBV-n(Bj)_Pred[有]_VOB-m(Dn)" syntax_pattern="SBV-n(A)_Pred[有]_VOB-m(A)" taggedType="a" pred_id="11" tagged="true" instance="病毒有多种" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="病毒" node_id="10" head_word="病毒" sem_cat="Bj" >
+			<sub_pattern node_id="10" sem_pattern="SBV-n(Bj)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="多种" node_id="12" head_word="多种" sem_cat="Dn" >
+			<sub_pattern node_id="12" sem_pattern="VOB-m(Dn)" syn_pattern="VOB-m(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="15">
+	<origin_text>3、为顾客创建更舒适的购物体验创新的、个性化的管理和营销思维，与最先进零售技术的完美融合，让客户不出国门就可以亲身感受到国际零售巨头正在计划和实施的未来商店解决方案</origin_text>
+	<relation id="1" pred="创建" pattern="ADV-为_POB-n(Af)_Pred[创建]_POB-n(Df)" syntax_pattern="ADV-为_POB-n(A)_Pred[创建]_POB-n(A)" taggedType="a" pred_id="4" tagged="true" instance="顾客创建更舒适的购物体验创新的、个性化的管理和营销思维" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="顾客" node_id="3" head_word="顾客" sem_cat="Af" >
+			<sub_pattern node_id="3" sem_pattern="POB-n(Af)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="2" sem_pattern="ADV-为" syn_pattern="ADV-为" />
+		</argument>
+		<argument id="1" content="管理和营销思维" node_id="18" head_word="思维" sem_cat="Df" >
+			<sub_pattern node_id="18" sem_pattern="POB-n(Df)" syn_pattern="POB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="16">
+	<origin_text>雪越下越大，整个宇宙仿佛是一个被雪片密封起来的巨大包裹</origin_text>
+	<relation id="1" pred="是" pattern="SBV-n(Bd)_Pred[是]_VOB-n(Ba)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="9" tagged="true" instance="整个宇宙仿佛是一个被雪片密封起来的巨大包裹" feature="1-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="整个宇宙" node_id="7" head_word="宇宙" sem_cat="Bd" >
+			<sub_pattern node_id="7" sem_pattern="SBV-n(Bd)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一个被雪片密封起来的巨大包裹" node_id="19" head_word="包裹" sem_cat="Ba" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(Ba)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="" pattern="Pred[]_VOB-n(Bf)_POB-n(A0)" syntax_pattern="Pred[]_VOB-n(A)_POB-n(A)" taggedType="a" pred_id="12" tagged="false" instance="雪片" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0" isDeStructure="true">
+		<argument id="0" content="雪片" node_id="13" head_word="雪片" sem_cat="Bf" >
+			<sub_pattern node_id="13" sem_pattern="VOB-n(Bf)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="12" sem_pattern="ATT-" syn_pattern="ATT-" />
+			<sub_pattern node_id="14" sem_pattern="POB-n(A0)" syn_pattern="POB-n(A)" />
+		</argument>
+		<argument id="1" content="" node_id="14" head_word="" sem_cat="" >
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="17">
+	<origin_text>例子─淡水站（地名）、民权西路站（街道）、中正纪念堂站（名胜）、芝山站（古迹，源自芝山岩）</origin_text>
+</sentence>
+<sentence id="18">
+	<origin_text>该社前身是1936年成立于上海的中华文化书局，1938年迁入香港，1955年更名为香港文化出版社，1982年定名为中国文化出版社</origin_text>
+	<relation id="1" pred="是" pattern="SBV-n(A0)_Pred[是]_VOB-n(Dm)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="h" pred_id="2" tagged="false" instance="该社前身是1936年成立于上海的中华文化书局，该社_前身1938年迁入香港，1955年更名为香港文化出版社，" feature="0-1-0-0-1-1-0-0-0-0-0-1-0-0-0-0-0-0-0-1-0-0-0">
+		<argument id="0" content="该社前身" node_id="1" head_word="前身" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="文化书局该社前身1938年迁入香港1955年更名为香港文化出版社" node_id="10" head_word="书局" sem_cat="Dm" >
+			<sub_pattern node_id="10" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="成立" pattern="SBV-t(Ca)_Pred[成立]_CMP-于_POB-ns(Cb)_ATT-u_VOB-n(Dm)" syntax_pattern="SBV-t(A)_Pred[成立]_CMP-于_POB-ns(A)_ATT-u_VOB-n(A)" taggedType="a" pred_id="4" tagged="true" instance="1936年成立于上海的中华文化书局，该社_前身1938年迁入香港，1955年更名为香港文化出版社，" feature="0-1-0-0-1-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1" isDeStructure="true">
+		<argument id="0" content="1936年" node_id="3" head_word="1936年" sem_cat="Ca" >
+			<sub_pattern node_id="3" sem_pattern="SBV-t(Ca)" syn_pattern="SBV-t(A)" />
+			<sub_pattern node_id="4" sem_pattern="DE-成立" syn_pattern="DE-成立" />
+			<sub_pattern node_id="7" sem_pattern="ATT-u" syn_pattern="ATT-u" />
+			<sub_pattern node_id="10" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n(A)" />
+		</argument>
+		<argument id="1" content="上海" node_id="6" head_word="上海" sem_cat="Cb" >
+			<sub_pattern node_id="6" sem_pattern="POB-ns(Cb)" syn_pattern="POB-ns(A)" />
+			<sub_pattern node_id="5" sem_pattern="CMP-于" syn_pattern="CMP-于" />
+		</argument>
+		<argument id="2" content="书局" node_id="10" head_word="书局" sem_cat="Dm" >
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="19">
+	<origin_text>开封拥有众多旅游景点创造和打破了中国世界纪录协会多项世界纪录、中国纪录，获得多项世界之最、中国之最</origin_text>
+	<relation id="1" pred="拥有" pattern="SBV-ns(Cb)_Pred[拥有]_VOB-n(A0)" syntax_pattern="SBV-ns(A)_Pred[拥有]_VOB-n(A)" taggedType="a" pred_id="1" tagged="false" instance="开封拥有众多旅游景点" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="开封" node_id="0" head_word="开封" sem_cat="Cb" >
+			<sub_pattern node_id="0" sem_pattern="SBV-ns(Cb)" syn_pattern="SBV-ns(A)" />
+		</argument>
+		<argument id="1" content="众多旅游景点" node_id="4" head_word="景点" sem_cat="" >
+			<sub_pattern node_id="4" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="20">
+	<origin_text>因位于山丘上，阶梯极多，平时即为莺歌人晨运的优先选择，站在栏杆边远眺著，大汉溪的蜿蜒与尖山的风景尽收眼底，也是欣赏莺歌全貌的绝佳地点</origin_text>
+	<relation id="1" pred="站" pattern="ADV-位于_VOB-f(A0)_ADV-t(Ca)_ADV-为_POB-n(A1)_Pred[站]" syntax_pattern="ADV-位于_VOB-f(A)_ADV-t(A)_ADV-为_POB-n(A)_Pred[站]" taggedType="a" pred_id="18" tagged="false" instance="山丘上，阶梯极多，平时即为莺歌人晨运的优先选择，站" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="山丘上" node_id="3" head_word="上" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="VOB-f(A0)" syn_pattern="VOB-f(A)" />
+			<sub_pattern node_id="1" sem_pattern="ADV-位于" syn_pattern="ADV-位于" />
+		</argument>
+		<argument id="1" content="平时" node_id="9" head_word="平时" sem_cat="Ca" >
+			<sub_pattern node_id="9" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="2" content="优先选择" node_id="16" head_word="选择" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="POB-n(A1)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="11" sem_pattern="ADV-为" syn_pattern="ADV-为" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="21">
+	<origin_text>不容分割的版图入选《中国大学生美术年鉴》2009设计卷成功活动策划：首届大学生电脑科技文化节--恩施首次IT盛会中国联通利川中心营业厅开业庆典之人体雕塑展中国联通巴东中心营业厅开业庆典之人体雕塑展湖北民族学院艺术学院10周年庆典商守善个人山水画展的全程策划与执行参与2007年艺术学院毕业展包装宣传完成2008年艺术学院欢迎毕业展包装宣传恩施塞里雅兰美食坊“塞里雅兰爱在冬日”2008年美宝莱地板元旦盛大开业活动2008恩施电器开业典礼获得策划2009恩施电器十一酬宾活动</origin_text>
+	<relation id="1" pred="入选" pattern="SBV-n(Cb)_Pred[入选]_VOB-bo(Dk)" syntax_pattern="SBV-n(A)_Pred[入选]_VOB-bo(A)" taggedType="a" pred_id="4" tagged="true" instance="版图入选《中国大学生美术年鉴》" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="版图" node_id="3" head_word="版图" sem_cat="Cb" >
+			<sub_pattern node_id="3" sem_pattern="SBV-n(Cb)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="中国大学生美术年鉴" node_id="9" head_word="年鉴" sem_cat="Dk" >
+			<sub_pattern node_id="9" sem_pattern="VOB-bo(Dk)" syn_pattern="VOB-bo(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="卷" pattern="ADV-t(Ca)_SBV-设计_Pred[卷]_VOB-n(A0)" syntax_pattern="ADV-t(A)_SBV-设计_Pred[卷]_VOB-n(A)" taggedType="a" pred_id="13" tagged="false" instance="2009设计卷成功活动" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="2009" node_id="11" head_word="2009" sem_cat="Ca" >
+			<sub_pattern node_id="11" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+			<sub_pattern node_id="12" sem_pattern="SBV-设计" syn_pattern="SBV-设计" />
+		</argument>
+		<argument id="1" content="成功活动" node_id="15" head_word="活动" sem_cat="" >
+			<sub_pattern node_id="15" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="22">
+	<origin_text>中文?旅游资源开发与管理；度假地开发与管理；会展场馆与现场管理????????英文Development?and?management?of?tourism?attraction;?Resort?management;?Venue?management</origin_text>
+	<relation id="1" pred="" pattern="SBV-n(A0)_Pred[]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[]_VOB-n(A)" taggedType="h" pred_id="2" tagged="false" instance="?旅游资源开发与管理" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="?" node_id="1" head_word="?" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="旅游资源开发与管理" node_id="7" head_word="管理" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="23">
+	<origin_text>微发泡成型过程可分成三个阶段，首先是将超临界流体（主要是二氧化碳和氮气）溶解到聚合物中，并形成聚合物/气体的单相溶液；然后，通过温度或压力等条件引发体系的热力学不稳定性，使得气体在溶液中的溶解度下降；由于气体平衡浓度的降低，从而在聚合物基体中形成大量的气泡核，然后逐渐长大生成微小的孔洞</origin_text>
+	<relation id="1" pred="是" pattern="SBV-分成_VOB-n(A0)_Pred[是]_VOB-n(Cb)" syntax_pattern="SBV-分成_VOB-n(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="11" tagged="false" instance="三个阶段，首先是将超临界流体（主要是二氧化碳和氮气）溶解到聚合物中，并形成聚合物/气体的单相溶液；然后，通过温度或压力等条件引发体系的热力学不稳定性，使得气体在溶液中的溶解度下降；由于气体平衡浓度的降低，从而在聚合物基体中形成大量的气泡核，然后逐渐长大生成微小的孔洞" feature="0-1-0-0-1-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="三个阶段" node_id="8" head_word="阶段" sem_cat="" >
+			<sub_pattern node_id="8" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="5" sem_pattern="SBV-分成" syn_pattern="SBV-分成" />
+		</argument>
+		<argument id="1" content="孔洞" node_id="84" head_word="孔洞" sem_cat="Cb" >
+			<sub_pattern node_id="84" sem_pattern="VOB-n(Cb)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="24">
+	<origin_text>暑来寒往，羽扇轻摇天下广</origin_text>
+	<relation id="1" pred="" pattern="SBV-n(A0)_Pred[]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[]_VOB-n(A)" taggedType="h" pred_id="5" tagged="false" instance="?旅游资源开发与管理" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="暑(Z)" node_id="4" head_word="暑" sem_cat="" >
+			<sub_pattern node_id="4" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="羽扇" node_id="7" head_word="" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="摇" pattern="SBV-n(A0)_Pred[摇]_SBV-n(Di)_VOB-a" syntax_pattern="SBV-n(A)_Pred[摇]_SBV-n(A)_VOB-a" taggedType="a" pred_id="10" tagged="false" instance="暑轻摇天下" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="暑(Z)" node_id="8" head_word="暑" sem_cat="" >
+			<sub_pattern node_id="8" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="天下" node_id="11" head_word="天下" sem_cat="Di" >
+			<sub_pattern node_id="11" sem_pattern="SBV-n(Di)" syn_pattern="SBV-n(A)" />
+			<sub_pattern node_id="12" sem_pattern="VOB-a" syn_pattern="VOB-a" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="25">
+	<origin_text>·2007年5月5日，精英乒乓网看望中国体育收藏第一人――张万金老人</origin_text>
+	<relation id="1" pred="收藏" pattern="ADV-t(Ca)_SBV-n(Dk)_Pred[收藏]_VOB-n(A0)" syntax_pattern="ADV-t(A)_SBV-n(A)_Pred[收藏]_VOB-n(A)" taggedType="a" pred_id="10" tagged="false" instance="2007年5月5日，精英乒乓网看望中国体育收藏第一人" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="2007年5月5日" node_id="3" head_word="5日" sem_cat="Ca" >
+			<sub_pattern node_id="3" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="中国体育" node_id="9" head_word="体育" sem_cat="Dk" >
+			<sub_pattern node_id="9" sem_pattern="SBV-n(Dk)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="2" content="第一人" node_id="12" head_word="人" sem_cat="" >
+			<sub_pattern node_id="12" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="26">
+	<origin_text>这个地域文化群落，实在值得我们去深思、去探索</origin_text>
+	<relation id="1" pred="值得" pattern="SBV-n(Di)_Pred[值得]_VOB-r(Af)" syntax_pattern="SBV-n(A)_Pred[值得]_VOB-r(A)" taggedType="a" pred_id="6" tagged="true" instance="这个地域文化群落，实在值得我们" feature="0-1-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="这个地域文化群落" node_id="3" head_word="群落" sem_cat="Di" >
+			<sub_pattern node_id="3" sem_pattern="SBV-n(Di)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="我们" node_id="7" head_word="我们" sem_cat="Af" >
+			<sub_pattern node_id="7" sem_pattern="VOB-r(Af)" syn_pattern="VOB-r(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="27">
+	<origin_text>2008年4月24日，衡阳市企业信用担保投资有限公司常宁办事处挂牌成立</origin_text>
+	<relation id="1" pred="成立" pattern="ADV-t(Ca)_SBV-n(A0)_Pred[成立]" syntax_pattern="ADV-t(A)_SBV-n(A)_Pred[成立]" taggedType="a" pred_id="13" tagged="false" instance="2008年4月24日，衡阳市企业信用担保投资有限公司常宁办事处挂牌成立" feature="1-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="2008年4月24日" node_id="2" head_word="24日" sem_cat="Ca" >
+			<sub_pattern node_id="2" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="常宁办事处" node_id="11" head_word="办事处" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="is" pattern="SBV-n(A0)_Pred[is]_VOB-n(Dm)" syntax_pattern="SBV-n(A)_Pred[is]_VOB-n" taggedType="h" pred_id="11" tagged="false" instance="衡阳市企业信用担保投资有限公司常宁办事处" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="常宁办事处" node_id="11" head_word="办事处" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="衡阳市企业信用担保投资有限公司" node_id="9" head_word="有限公司" sem_cat="Dm" >
+			<sub_pattern node_id="11" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="28">
+	<origin_text>1974―1984年，出任著名的伦敦经济学院（TheLondonSchoolEconmics）院长</origin_text>
+	<relation id="1" pred="出任" pattern="ADV-t(Ca)_Pred[出任]_VOB-n(Dm)" syntax_pattern="ADV-t(A)_Pred[出任]_VOB-n(A)" taggedType="a" pred_id="4" tagged="true" instance="1974―1984年，出任著名的伦敦经济学院" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="1974―1984年" node_id="2" head_word="1984年" sem_cat="Ca" >
+			<sub_pattern node_id="2" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="伦敦经济学院" node_id="9" head_word="学院" sem_cat="Dm" >
+			<sub_pattern node_id="9" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="29">
+	<origin_text>2008年计划完成工业总产值23.8亿元，规模企业产值21亿元，企业固定资产投入力争达到3.2亿元</origin_text>
+	<relation id="1" pred="力争" pattern="SBV-n(A0)_Pred[力争]_ATT-q(Dn)" syntax_pattern="SBV-n(A)_Pred[力争]_ATT-q(A)" taggedType="a" pred_id="18" tagged="false" instance="企业固定资产投入力争达到3.2亿元" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="企业固定资产投入" node_id="17" head_word="投入" sem_cat="" >
+			<sub_pattern node_id="17" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="3.2亿元" node_id="21" head_word="元" sem_cat="Dn" >
+			<sub_pattern node_id="21" sem_pattern="ATT-q(Dn)" syn_pattern="ATT-q(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="30">
+	<origin_text>第三十五章收集安眠药瓶05-29</origin_text>
+</sentence>
+<sentence id="31">
+	<origin_text>你喜欢、我喜欢.他喜欢，满分训练设计让你插上成功的翅膀</origin_text>
+	<relation id="1" pred="喜欢" pattern="SBV-r(Af)_Pred[喜欢]_SBV-r(Af)_VOB-喜欢" syntax_pattern="SBV-r(A)_Pred[喜欢]_SBV-r(A)_VOB-喜欢" taggedType="a" pred_id="4" tagged="true" instance="我喜欢.他" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="我" node_id="3" head_word="我" sem_cat="Af" >
+			<sub_pattern node_id="3" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="他" node_id="6" head_word="他" sem_cat="Af" >
+			<sub_pattern node_id="6" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+			<sub_pattern node_id="7" sem_pattern="VOB-喜欢" syn_pattern="VOB-喜欢" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="让" pattern="SBV-r(Af)_Pred[让]_VOB-r(Af)" syntax_pattern="SBV-r(A)_Pred[让]_VOB-r(A)" taggedType="a" pred_id="13" tagged="true" instance="我满分训练设计让你" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="我(Z)" node_id="9" head_word="我" sem_cat="Af" >
+			<sub_pattern node_id="9" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="你" node_id="14" head_word="你" sem_cat="Af" >
+			<sub_pattern node_id="14" sem_pattern="VOB-r(Af)" syn_pattern="VOB-r(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="32">
+	<origin_text>张炼海，畅销经管书作者，企业管理咨询顾问</origin_text>
+</sentence>
+<sentence id="33">
+	<origin_text>（四）细胞间质细胞间质的主要成分是蛋白质和多糖，在结缔组织尤为明显</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(A0)_Pred[de]_dobj-n(Dd)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="10" tagged="false" instance="质细胞间质的主要成分" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="质细胞间质" node_id="9" head_word="间质" sem_cat="" >
+			<sub_pattern node_id="9" sem_pattern="nsubj-n(A0)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="主要成分" node_id="12" head_word="成分" sem_cat="Dd" >
+			<sub_pattern node_id="12" sem_pattern="dobj-n(Dd)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="是" pattern="SBV-n(Dd)_Pred[是]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="h" pred_id="13" tagged="false" instance="主要成分是蛋白质和多糖" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-1-0-0-0">
+		<argument id="0" content="主要成分" node_id="12" head_word="成分" sem_cat="Dd" >
+			<sub_pattern node_id="12" sem_pattern="SBV-n(Dd)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="蛋白质和多糖" node_id="16" head_word="多糖" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="34">
+	<origin_text>97年1月，InternationalTennisFederation第7度公布Steffi为最佳网球员</origin_text>
+</sentence>
+<sentence id="35">
+	<origin_text>除1月12日莱温斯基好友特里普所交出的17卷录有莱温斯基谈与克林顿关系及总统要其撒谎的录音带外，在联邦调查局的安排下，身上戴有身音设备的特里普与莱温斯基在弗吉尼亚州一间酒店中进行了有意义的会面</origin_text>
+	<relation id="1" pred="is" pattern="SBV-nr(Af)_Pred[is]_VOB-n(Af)" syntax_pattern="SBV-nr(A)_Pred[is]_VOB-n" taggedType="t" pred_id="5" tagged="true" instance="1月12日莱温斯基好友特里普" feature="0-0-1-0-0-1-0-0-0-1-0-0-0-0-1-0-1-0-0-0-0-0-0">
+		<argument id="0" content="特里普" node_id="5" head_word="特里普" sem_cat="Af" >
+			<sub_pattern node_id="5" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="1" content="1月12日莱温斯基好友" node_id="4" head_word="好友" sem_cat="Af" >
+			<sub_pattern node_id="5" sem_pattern="VOB-n(Af)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="36">
+	<origin_text>回首2012年，住房和城乡建设部积极采取措施，推进可再生能源建筑规模化应用，继续组织实施可再生能源建筑应用城市和县级示范，引导和推进以市场机制为主导的可再生能源建筑应用推广模式</origin_text>
+	<relation id="1" pred="采取" pattern="ADV-回首_VOB-t(Ca)_SBV-nt(Dm)_Pred[采取]_VOB-n(Db)" syntax_pattern="ADV-回首_VOB-t(A)_SBV-nt(A)_Pred[采取]_VOB-n(A)" taggedType="a" pred_id="8" tagged="true" instance="2012年，住房和城乡建设部积极采取措施" feature="0-1-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="2012年" node_id="1" head_word="2012年" sem_cat="Ca" >
+			<sub_pattern node_id="1" sem_pattern="VOB-t(Ca)" syn_pattern="VOB-t(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-回首" syn_pattern="ADV-回首" />
+		</argument>
+		<argument id="1" content="住房和城乡建设部" node_id="6" head_word="建设部" sem_cat="Dm" >
+			<sub_pattern node_id="6" sem_pattern="SBV-nt(Dm)" syn_pattern="SBV-nt(A)" />
+		</argument>
+		<argument id="2" content="措施" node_id="9" head_word="措施" sem_cat="Db" >
+			<sub_pattern node_id="9" sem_pattern="VOB-n(Db)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="推进" pattern="SBV-nt(Dm)_Pred[推进]_VOB-再生_VOB-n(Bn)" syntax_pattern="SBV-nt(A)_Pred[推进]_VOB-再生_VOB-n(A)" taggedType="a" pred_id="12" tagged="true" instance="住房_和_城乡_建设部推进可再生能源建筑" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="住房和城乡建设部(Z)" node_id="11" head_word="住房	和	城乡	建设部" sem_cat="Dm" >
+			<sub_pattern node_id="11" sem_pattern="SBV-nt(Dm)" syn_pattern="SBV-nt(A)" />
+		</argument>
+		<argument id="1" content="能源建筑" node_id="16" head_word="建筑" sem_cat="Bn" >
+			<sub_pattern node_id="16" sem_pattern="VOB-n(Bn)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="14" sem_pattern="VOB-再生" syn_pattern="VOB-再生" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="37">
+	<origin_text>(最新发布于2009-09-30)中航三鑫2009年第三季度实现主营收入10.92亿元，比上年同期增长8.84%</origin_text>
+	<relation id="1" pred="实现" pattern="ADV-t(Ca)_SBV-n(A0)_Pred[实现]_VOB-n(Dj)" syntax_pattern="ADV-t(A)_SBV-n(A)_Pred[实现]_VOB-n(A)" taggedType="a" pred_id="12" tagged="false" instance="2009年第三季度实现主营收入10.92亿元" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="2009年" node_id="9" head_word="2009年" sem_cat="Ca" >
+			<sub_pattern node_id="9" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="第三季度" node_id="11" head_word="季度" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="2" content="主营收入10.92亿元" node_id="14" head_word="收入" sem_cat="Dj" >
+			<sub_pattern node_id="14" sem_pattern="VOB-n(Dj)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="38">
+	<origin_text>在观念上，画家更多地吸收了西方当代艺术的手法，使藏女不是作为现实中的人物形象，而是一个有着更为丰富内涵的象征性符号出现</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Db)_Pred[de]_dobj-n(Df)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="a" pred_id="13" tagged="true" instance="西方当代艺术的手法" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="西方当代艺术" node_id="12" head_word="艺术" sem_cat="Db" >
+			<sub_pattern node_id="12" sem_pattern="nsubj-n(Db)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="手法" node_id="14" head_word="手法" sem_cat="Df" >
+			<sub_pattern node_id="14" sem_pattern="dobj-n(Df)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="吸收" pattern="ADV-在_POB-f(A0)_SBV-n(Af)_Pred[吸收]_VOB-n(Df)" syntax_pattern="ADV-在_POB-f(A)_SBV-n(A)_Pred[吸收]_VOB-n(A)" taggedType="a" pred_id="8" tagged="false" instance="观念上，画家更多地吸收了西方当代艺术的手法" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="观念上" node_id="2" head_word="上" sem_cat="" >
+			<sub_pattern node_id="2" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="1" content="画家" node_id="4" head_word="画家" sem_cat="Af" >
+			<sub_pattern node_id="4" sem_pattern="SBV-n(Af)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="2" content="手法" node_id="14" head_word="手法" sem_cat="Df" >
+			<sub_pattern node_id="14" sem_pattern="VOB-n(Df)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="3" pred="使" pattern="SBV-n(Af)_Pred[使]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[使]_VOB-n(A)" taggedType="a" pred_id="17" tagged="false" instance="画家使藏女" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="画家(Z)" node_id="16" head_word="画家" sem_cat="Af" >
+			<sub_pattern node_id="16" sem_pattern="SBV-n(Af)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="藏女" node_id="18" head_word="藏女" sem_cat="" >
+			<sub_pattern node_id="18" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="39">
+	<origin_text>地理位置优越，交通便利，是沈大、京沈高速公路经盘海营高速公路贯穿，集团总部距其出口处仅为25公里，距沈阳桃仙国际机场150公里、营口港100公里、盘锦市区45公里</origin_text>
+</sentence>
+<sentence id="40">
+	<origin_text>出版社:江西科学技术出版社;第1版(2010年11月1日)</origin_text>
+	<relation id="1" pred=":" pattern="SBV-n(Dm)_Pred[:]_SBV-n(Dm)_VOB-;_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[:]_SBV-n(A)_VOB-;_VOB-n(A)" taggedType="a" pred_id="1" tagged="false" instance="出版社:江西科学技术出版社;第1版" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="出版社" node_id="0" head_word="出版社" sem_cat="Dm" >
+			<sub_pattern node_id="0" sem_pattern="SBV-n(Dm)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="江西科学技术出版社" node_id="4" head_word="出版社" sem_cat="Dm" >
+			<sub_pattern node_id="4" sem_pattern="SBV-n(Dm)" syn_pattern="SBV-n(A)" />
+			<sub_pattern node_id="5" sem_pattern="VOB-;" syn_pattern="VOB-;" />
+		</argument>
+		<argument id="2" content="第1版" node_id="7" head_word="版" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="41">
+	<origin_text>癌症患病的倾向性是遗传的，癌症的起因又同DNA损伤修复有关，近年来癌基因的发现进一步说明癌症和遗传的密切关系，所以从长远观点来看，遗传学研究必将为全面控制癌症作出贡献</origin_text>
+</sentence>
+<sentence id="42">
+	<origin_text>详尽占有史料和精湛经济理论相结合，使本书实际上如一个金融家的分析</origin_text>
+	<relation id="2" pred="使" pattern="SBV-n(A0)_Pred[使]_VOB-r(Dk)" syntax_pattern="SBV-n(A)_Pred[使]_VOB-r(A)" taggedType="a" pred_id="11" tagged="false" instance="详尽_占有_史料_和_精湛_经济_理论使本书" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="详尽占有史料和精湛经济理论(Z)" node_id="10" head_word="详尽	占有	史料	和	精湛	经济	理论" sem_cat="" >
+			<sub_pattern node_id="10" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="本书" node_id="12" head_word="本书" sem_cat="Dk" >
+			<sub_pattern node_id="12" sem_pattern="VOB-r(Dk)" syn_pattern="VOB-r(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="43">
+	<origin_text>质坚硬，不易折断，横断面淡黄棕色，无星点</origin_text>
+</sentence>
+<sentence id="44">
+	<origin_text>书名：佛咒作者：高宜出书机构：北京时代弄潮文化发展有限公司网络推广：个人出书网老人出书网媒体支持：时代文化出版社合作宣传：时代教育出版社时代文献出版社时代作家出版社出版时间：2010年9月字数：132千字页数：105版次：1版开本：850×11681/32纸张：胶版纸包装：平装定价：36元</origin_text>
+	<relation id="1" pred="出" pattern="SBV-n(Af)_Pred[出]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[出]_VOB-n(A)" taggedType="a" pred_id="24" tagged="false" instance="个人出书网老人出书网" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="个人出书网老人" node_id="23" head_word="老人" sem_cat="Af" >
+			<sub_pattern node_id="23" sem_pattern="SBV-n(Af)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="书网" node_id="26" head_word="网" sem_cat="" >
+			<sub_pattern node_id="26" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="45">
+	<origin_text>他教过的42个孩子中，先后有26个孩子和他搭伙</origin_text>
+	<relation id="1" pred="搭伙" pattern="ADV-f(A0)_SBV-r(Af)_Pred[搭伙]" syntax_pattern="ADV-f(A)_SBV-r(A)_Pred[搭伙]" taggedType="a" pred_id="16" tagged="false" instance="42个孩子中，先后有26个孩子和他搭伙" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="42个孩子中" node_id="7" head_word="中" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="ADV-f(A0)" syn_pattern="ADV-f(A)" />
+		</argument>
+		<argument id="1" content="他" node_id="15" head_word="他" sem_cat="Af" >
+			<sub_pattern node_id="15" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="46">
+	<origin_text>在推行素质教育的今天，学校以写字教学为突破口，全面实施素质教育，并且根据十几年写字教学的成功经验，提出了培养学生可持续发展能力素质的科研课题，在坚持抓好写字特色教育的同时，通过家庭科技俱乐部、科技双休小队、交通小卫队等多种活动渠道培养学生多方面的能力</origin_text>
+	<relation id="1" pred="实施" pattern="ADV-在_POB-t(Ca)_Pred[实施]_VOB-n(Dk)" syntax_pattern="ADV-在_POB-t(A)_Pred[实施]_VOB-n(A)" taggedType="a" pred_id="16" tagged="true" instance="今天，学校以写字教学为突破口，全面实施素质教育" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="今天" node_id="5" head_word="今天" sem_cat="Ca" >
+			<sub_pattern node_id="5" sem_pattern="POB-t(Ca)" syn_pattern="POB-t(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="1" content="素质教育" node_id="18" head_word="教育" sem_cat="Dk" >
+			<sub_pattern node_id="18" sem_pattern="VOB-n(Dk)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="为" pattern="SBV-n(Dm)_Pred[为]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[为]_VOB-n(A)" taggedType="h" pred_id="12" tagged="false" instance="学校以写字教学为突破口" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="学校" node_id="7" head_word="学校" sem_cat="Dm" >
+			<sub_pattern node_id="7" sem_pattern="SBV-n(Dm)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="突破口" node_id="13" head_word="突破口" sem_cat="" >
+			<sub_pattern node_id="13" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="47">
+	<origin_text>面积：30平方米楼层：8-15层房型：双床房床型：双床1.2米可加床：RMB200无烟房</origin_text>
+	<relation id="1" pred="加" pattern="SBV-n(Bp)_ADV-q(Dn)_Pred[加]" syntax_pattern="SBV-n(A)_ADV-q(A)_Pred[加]" taggedType="a" pred_id="19" tagged="true" instance="双床1.2米可加" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="双床" node_id="15" head_word="床" sem_cat="Bp" >
+			<sub_pattern node_id="15" sem_pattern="SBV-n(Bp)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="1.2米" node_id="17" head_word="米" sem_cat="Dn" >
+			<sub_pattern node_id="17" sem_pattern="ADV-q(Dn)" syn_pattern="ADV-q(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="无" pattern="SBV-nx(A0)_ADV-m(Dn)_Pred[无]_IOB-n(A1)" syntax_pattern="SBV-nx(A)_ADV-m(A)_Pred[无]_IOB-n(A)" taggedType="a" pred_id="24" tagged="false" instance="RMB200无烟房" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="RMB" node_id="22" head_word="RMB" sem_cat="" >
+			<sub_pattern node_id="22" sem_pattern="SBV-nx(A0)" syn_pattern="SBV-nx(A)" />
+		</argument>
+		<argument id="1" content="200" node_id="23" head_word="200" sem_cat="Dn" >
+			<sub_pattern node_id="23" sem_pattern="ADV-m(Dn)" syn_pattern="ADV-m(A)" />
+		</argument>
+		<argument id="2" content="烟房" node_id="25" head_word="烟房" sem_cat="" >
+			<sub_pattern node_id="25" sem_pattern="IOB-n(A1)" syn_pattern="IOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="48">
+	<origin_text>恶性结节不能摄取碘，恶变区将出现放射稀疏区，根据其摄碘能力，可分为无功能的冷结节，正常功能的温结节和高功能的热结节</origin_text>
+	<relation id="1" pred="摄取" pattern="SBV-n(A0)_Pred[摄取]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[摄取]_VOB-n(A)" taggedType="a" pred_id="4" tagged="false" instance="恶性结节不能摄取碘" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="恶性结节" node_id="1" head_word="结节" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="碘" node_id="5" head_word="碘" sem_cat="" >
+			<sub_pattern node_id="5" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="出现" pattern="SBV-n(A0)_Pred[出现]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[出现]_VOB-n(A)" taggedType="a" pred_id="9" tagged="false" instance="恶变区将出现放射稀疏区" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="恶变区" node_id="7" head_word="恶变区" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="放射稀疏区" node_id="11" head_word="稀疏区" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="49">
+	<origin_text>发表的论文主要有：400毫米半连续式热带钢车间的工艺和设备（1982年《江苏冶金》、自筹资金奋战十七个月建造热轧带钢一次性试轧成功（1983年中国金属学会第二届轧钢年会评为优秀论文）、我厂小轧改造的一些做法和体会（1987年《江苏冶金》，被评为优秀论文）、《我厂新建热带车间取得的成绩，存在问题和改进意见》（1987年冶金部轧钢情报网被评为优秀论文）、《简述电炉→连铸→热送→半连轧新工艺生产线》（1990年闽、浙、苏、皖第四届轧钢年会）</origin_text>
+</sentence>
+<sentence id="50">
+	<origin_text>聘请◆成都市首届“十佳”歌手（女中音），曾荣获四川省声乐大赛二等奖；中国音乐家协会会员、四川分会会员张世仪女士为成都海星合唱团声乐艺术辅导</origin_text>
+	<relation id="1" pred="荣获" pattern="ADV-n(Af)_Pred[荣获]_VOB-n(Da)" syntax_pattern="ADV-n(A)_Pred[荣获]_VOB-n(A)" taggedType="a" pred_id="15" tagged="true" instance="成都市首届“十佳”歌手（女中音），曾荣获四川省声乐大赛二等奖" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="成都市首届十佳歌手" node_id="8" head_word="歌手" sem_cat="Af" >
+			<sub_pattern node_id="8" sem_pattern="ADV-n(Af)" syn_pattern="ADV-n(A)" />
+		</argument>
+		<argument id="1" content="四川省声乐大赛二等奖" node_id="19" head_word="二等奖" sem_cat="Da" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(Da)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="51">
+	<origin_text>2、虾仁剁碎，加入猪绞肉、洋葱末拌匀，镶入菌摺内</origin_text>
+	<relation id="1" pred="拌匀" pattern="SBV-n(Bi)_ADV-加入_VOB-f(A0)_Pred[拌匀]" syntax_pattern="SBV-n(A)_ADV-加入_VOB-f(A)_Pred[拌匀]" taggedType="a" pred_id="12" tagged="false" instance="虾仁加入猪绞肉、洋葱末拌匀" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="虾仁(Z)" node_id="6" head_word="虾仁" sem_cat="Bi" >
+			<sub_pattern node_id="6" sem_pattern="SBV-n(Bi)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="猪绞肉、洋葱末" node_id="11" head_word="末" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="VOB-f(A0)" syn_pattern="VOB-f(A)" />
+			<sub_pattern node_id="7" sem_pattern="ADV-加入" syn_pattern="ADV-加入" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="52">
+	<origin_text>接着，骨灰会被放置在一个容器里，它可以是一个简单的纸盒，或一个花式的骨灰瓮</origin_text>
+	<relation id="1" pred="放置" pattern="SBV-n(Bg)_Pred[放置]_CMP-在_POB-f(A0)" syntax_pattern="SBV-n(A)_Pred[放置]_CMP-在_POB-f(A)" taggedType="a" pred_id="5" tagged="false" instance="骨灰会被放置在一个容器里" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="骨灰" node_id="2" head_word="骨灰" sem_cat="Bg" >
+			<sub_pattern node_id="2" sem_pattern="SBV-n(Bg)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一个容器里" node_id="9" head_word="里" sem_cat="" >
+			<sub_pattern node_id="9" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="6" sem_pattern="CMP-在" syn_pattern="CMP-在" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="是" pattern="SBV-r(Ba)_Pred[是]_VOB-n(Bp)" syntax_pattern="SBV-r(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="13" tagged="true" instance="它可以是一个简单的纸盒" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="它" node_id="11" head_word="它" sem_cat="Ba" >
+			<sub_pattern node_id="11" sem_pattern="SBV-r(Ba)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="一个简单的纸盒" node_id="17" head_word="纸盒" sem_cat="Bp" >
+			<sub_pattern node_id="17" sem_pattern="VOB-n(Bp)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="53">
+	<origin_text>●只在这个效果当作装备卡使用的场合，可以把装备怪兽的攻击力下降1000，表侧表示存在的1只怪兽破坏</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(A0)_Pred[de]_dobj-n(De)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="15" tagged="false" instance="装备怪兽的攻击力" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-1-0-0-0">
+		<argument id="0" content="装备怪兽" node_id="14" head_word="怪兽" sem_cat="" >
+			<sub_pattern node_id="14" sem_pattern="nsubj-n(A0)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="攻击力" node_id="16" head_word="攻击力" sem_cat="De" >
+			<sub_pattern node_id="16" sem_pattern="dobj-n(De)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="下降" pattern="SBV-n(Cb)_ADV-把_POB-n(De)_Pred[下降]_VOB-m(Dn)" syntax_pattern="SBV-n(A)_ADV-把_POB-n(A)_Pred[下降]_VOB-m(A)" taggedType="a" pred_id="17" tagged="true" instance="场合，可以把装备怪兽的攻击力下降1000" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="场合" node_id="9" head_word="场合" sem_cat="Cb" >
+			<sub_pattern node_id="9" sem_pattern="SBV-n(Cb)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="攻击力" node_id="16" head_word="攻击力" sem_cat="De" >
+			<sub_pattern node_id="16" sem_pattern="POB-n(De)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="12" sem_pattern="ADV-把" syn_pattern="ADV-把" />
+		</argument>
+		<argument id="2" content="1000" node_id="18" head_word="1000" sem_cat="Dn" >
+			<sub_pattern node_id="18" sem_pattern="VOB-m(Dn)" syn_pattern="VOB-m(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="54">
+	<origin_text>2013年斥巨资建设了标准的50m*25m规格游泳池，设置了泳道和跳水台，可用于学生游泳课和学校游泳队成员的专业训练</origin_text>
+	<relation id="1" pred="建设" pattern="ADV-t(Ca)_Pred[建设]_VOB-n(Dm)" syntax_pattern="ADV-t(A)_Pred[建设]_VOB-n(A)" taggedType="a" pred_id="3" tagged="true" instance="2013年斥巨资建设了标准的50m*25m规格游泳池" feature="1-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="2013年" node_id="0" head_word="2013年" sem_cat="Ca" >
+			<sub_pattern node_id="0" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="50m*25m规格游泳池" node_id="11" head_word="游泳池" sem_cat="Dm" >
+			<sub_pattern node_id="11" sem_pattern="VOB-n(Dm)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="55">
+	<origin_text>而作为基金行业“龙头”的华夏基金也颇具“山高我为峰”的感觉</origin_text>
+	<relation id="1" pred="具" pattern="SBV-n(Dj)_Pred[具]_CMP-n(Df)" syntax_pattern="SBV-n(A)_Pred[具]_CMP-n(A)" taggedType="a" pred_id="14" tagged="true" instance="基金也颇具“山高我为峰”的感觉" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="基金" node_id="11" head_word="基金" sem_cat="Dj" >
+			<sub_pattern node_id="11" sem_pattern="SBV-n(Dj)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="山高我为峰的感觉" node_id="25" head_word="感觉" sem_cat="Df" >
+			<sub_pattern node_id="25" sem_pattern="CMP-n(Df)" syn_pattern="CMP-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="56">
+	<origin_text>肉质矮乔木以多汁液的茎干和叶营光合作用，以仙人掌科和龙杏兰科的一些种为主</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Bg)_Pred[de]_dobj-n(Da)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="a" pred_id="7" tagged="true" instance="液的茎干和叶营光合作用" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="液" node_id="6" head_word="液" sem_cat="Bg" >
+			<sub_pattern node_id="6" sem_pattern="nsubj-n(Bg)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="茎干和叶营光合作用" node_id="11" head_word="光合作用" sem_cat="Da" >
+			<sub_pattern node_id="11" sem_pattern="dobj-n(Da)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="为主" pattern="SBV-n(Bh)_ADV-以_POB-n(Da)_SBV-q(Dn)_Pred[为主]" syntax_pattern="SBV-n(A)_ADV-以_POB-n(A)_SBV-q(A)_Pred[为主]" taggedType="a" pred_id="24" tagged="true" instance="肉质矮乔木以多汁液的茎干和叶营光合作用，以仙人掌科和龙杏兰科的一些种为主" feature="1-1-0-0-1-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="肉质矮乔木" node_id="2" head_word="乔木" sem_cat="Bh" >
+			<sub_pattern node_id="2" sem_pattern="SBV-n(Bh)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="茎干和叶营光合作用" node_id="11" head_word="光合作用" sem_cat="Da" >
+			<sub_pattern node_id="11" sem_pattern="POB-n(Da)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="3" sem_pattern="ADV-以" syn_pattern="ADV-以" />
+		</argument>
+		<argument id="2" content="一些种" node_id="23" head_word="种" sem_cat="Dn" >
+			<sub_pattern node_id="23" sem_pattern="SBV-q(Dn)" syn_pattern="SBV-q(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="is" pattern="SBV-nr(Af)_Pred[is]_VOB-n(A0)" syntax_pattern="SBV-nr(A)_Pred[is]_VOB-n" taggedType="h" pred_id="20" tagged="false" instance="仙人掌科和龙杏兰科" feature="0-0-1-0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0">
+		<argument id="0" content="兰科" node_id="20" head_word="兰科" sem_cat="Af" >
+			<sub_pattern node_id="20" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="1" content="仙人掌科和龙杏" node_id="19" head_word="" sem_cat="" >
+			<sub_pattern node_id="20" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="57">
+	<origin_text>11.5经典案例指导@使用知识对象创建消息框</origin_text>
+</sentence>
+<sentence id="58">
+	<origin_text>酒店星级：四星级开业时间：2006-01-01装修时间：2006-01-01酒店地址：广州番禺区石基泰兴路133号即番禺客运站旁</origin_text>
+	<relation id="1" pred="即" pattern="SBV-n(A0)_Pred[即]_VOB-n(Cb)" syntax_pattern="SBV-n(A)_Pred[即]_VOB-n(A)" taggedType="a" pred_id="20" tagged="false" instance="广州番禺区石基泰兴路133号即番禺客运站" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="广州番禺区石基泰兴路133号" node_id="19" head_word="号" sem_cat="" >
+			<sub_pattern node_id="19" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="番禺客运站" node_id="22" head_word="客运站" sem_cat="Cb" >
+			<sub_pattern node_id="22" sem_pattern="VOB-n(Cb)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="59">
+	<origin_text>7日，厦门市泉州商会和厦门市侨乡促进会联合发文给福建省交通运输厅，表达在厦泉商和华侨对泉州港更名的高度关注</origin_text>
+	<relation id="1" pred="发文" pattern="SBV-n(Di)_Pred[发文]_CMP-给_POB-n(A0)" syntax_pattern="SBV-n(A)_Pred[发文]_CMP-给_POB-n(A)" taggedType="a" pred_id="10" tagged="false" instance="厦门市泉州商会和厦门市侨乡促进会联合发文给福建省交通运输厅" feature="1-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="厦门市泉州商会和厦门市侨乡促进会" node_id="8" head_word="促进会" sem_cat="Di" >
+			<sub_pattern node_id="8" sem_pattern="SBV-n(Di)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="福建省交通运输厅" node_id="14" head_word="运输厅" sem_cat="" >
+			<sub_pattern node_id="14" sem_pattern="POB-n(A0)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="11" sem_pattern="CMP-给" syn_pattern="CMP-给" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="60">
+	<origin_text>贵州毕节彝文翻译组的王子国、王继超先生的直译为‘妥鲁（堂琅）山里手辖印’</origin_text>
+</sentence>
+<sentence id="61">
+	<origin_text>“一个带着木偶的十二三岁孩子取笑一个超级明星，是一种具有魔力的（喜剧）模式</origin_text>
+</sentence>
+<sentence id="62">
+	<origin_text>首先通过文献检索的方式了解待测样本的大致含量，确定适当的稀释倍数</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(A0)_Pred[de]_dobj-n(Db)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="4" tagged="false" instance="文献检索的方式" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="文献检索" node_id="3" head_word="检索" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="nsubj-n(A0)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="方式" node_id="5" head_word="方式" sem_cat="Db" >
+			<sub_pattern node_id="5" sem_pattern="dobj-n(Db)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="了解" pattern="ADV-通过_POB-n(Db)_Pred[了解]_VOB-n(Dn)" syntax_pattern="ADV-通过_POB-n(A)_Pred[了解]_VOB-n(A)" taggedType="a" pred_id="6" tagged="true" instance="方式了解待测样本的大致含量" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="方式" node_id="5" head_word="方式" sem_cat="Db" >
+			<sub_pattern node_id="5" sem_pattern="POB-n(Db)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="1" sem_pattern="ADV-通过" syn_pattern="ADV-通过" />
+		</argument>
+		<argument id="1" content="大致含量" node_id="12" head_word="含量" sem_cat="Dn" >
+			<sub_pattern node_id="12" sem_pattern="VOB-n(Dn)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="63">
+	<origin_text>此同时，一些欧洲的移动运营商对EDGE也开始表现出兴趣，其中TIM和TeliaSonera都明确表示将采用EDGE技术</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-ns(Cb)_Pred[de]_dobj-n(A0)" syntax_pattern="nsubj-ns(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="4" tagged="false" instance="一些欧洲的移动运营商" feature="0-0-1-0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0">
+		<argument id="0" content="欧洲" node_id="3" head_word="欧洲" sem_cat="Cb" >
+			<sub_pattern node_id="3" sem_pattern="nsubj-ns(Cb)" syn_pattern="nsubj-ns(A)" />
+		</argument>
+		<argument id="1" content="一些欧洲的移动运营商" node_id="6" head_word="运营商" sem_cat="" >
+			<sub_pattern node_id="6" sem_pattern="dobj-n(A0)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="表现" pattern="SBV-n(A0)_ADV-对_POB-nx(A1)_Pred[表现]_VOB-n(Df)" syntax_pattern="SBV-n(A)_ADV-对_POB-nx(A)_Pred[表现]_VOB-n(A)" taggedType="a" pred_id="11" tagged="false" instance="一些欧洲的移动运营商对EDGE也开始表现出兴趣" feature="1-0-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="一些欧洲的移动运营商" node_id="6" head_word="运营商" sem_cat="" >
+			<sub_pattern node_id="6" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="EDGE" node_id="8" head_word="EDGE" sem_cat="" >
+			<sub_pattern node_id="8" sem_pattern="POB-nx(A1)" syn_pattern="POB-nx(A)" />
+			<sub_pattern node_id="7" sem_pattern="ADV-对" syn_pattern="ADV-对" />
+		</argument>
+		<argument id="2" content="兴趣" node_id="13" head_word="兴趣" sem_cat="Df" >
+			<sub_pattern node_id="13" sem_pattern="VOB-n(Df)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="64">
+	<origin_text>lt;リアルタイムで萌えさせて3gt;</origin_text>
+</sentence>
+<sentence id="65">
+	<origin_text>2.1.2PremiereProCS4的新增功能</origin_text>
+</sentence>
+<sentence id="66">
+	<origin_text>全身急剧收拢，宛如一支黄金利箭，一闪即没</origin_text>
+	<relation id="1" pred="宛如" pattern="SBV-n(Bk)_Pred[宛如]_VOB-n(A0)" syntax_pattern="SBV-n(A)_Pred[宛如]_VOB-n(A)" taggedType="a" pred_id="5" tagged="false" instance="全身宛如一支黄金利箭" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="全身(Z)" node_id="4" head_word="全身" sem_cat="Bk" >
+			<sub_pattern node_id="4" sem_pattern="SBV-n(Bk)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一支黄金利箭" node_id="9" head_word="利箭" sem_cat="" >
+			<sub_pattern node_id="9" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="67">
+	<origin_text>判盐铁勾院，为河北转运使，改江、淮制置发运使，召兼侍御史知杂事、判大理寺、权知谏院，安抚利、夔路</origin_text>
+	<relation id="1" pred="召兼" pattern="SBV-n(A0)_Pred[召兼]_ATT-ns(Cb)" syntax_pattern="SBV-n(A)_Pred[召兼]_ATT-ns(A)" taggedType="a" pred_id="16" tagged="false" instance="淮制召兼侍御史知杂事、判大理寺" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="淮制(Z)" node_id="15" head_word="淮制" sem_cat="" >
+			<sub_pattern node_id="15" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="大理寺" node_id="24" head_word="大理寺" sem_cat="Cb" >
+			<sub_pattern node_id="24" sem_pattern="ATT-ns(Cb)" syn_pattern="ATT-ns(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="68">
+	<origin_text>有作品长篇小说《大钟无声》、《国防线》,纯中国元素志怪小说《十五日》</origin_text>
+	<relation id="1" pred="" pattern="SBV-bo(Dk)_Pred[]_ATT-t(Ca)" syntax_pattern="SBV-bo(A)_Pred[]_ATT-t(A)" taggedType="a" pred_id="17" tagged="true" instance="《国防线》,纯中国元素志怪小说《十五日》" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="国防线" node_id="14" head_word="" sem_cat="Dk" >
+			<sub_pattern node_id="14" sem_pattern="SBV-bo(Dk)" syn_pattern="SBV-bo(A)" />
+		</argument>
+		<argument id="1" content="十五日" node_id="26" head_word="十五日" sem_cat="Ca" >
+			<sub_pattern node_id="26" sem_pattern="ATT-t(Ca)" syn_pattern="ATT-t(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="69">
+	<origin_text>倭刀原本流行在江浙闽南一带，但是在中国北方京津一带，及东北关外地方，有少数武术家以家族传承的方式在研习双手刀法</origin_text>
+	<relation id="1" pred="流行" pattern="SBV-n(A0)_Pred[流行]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[流行]_VOB-n(A)" taggedType="a" pred_id="2" tagged="false" instance="倭刀原本流行在江浙闽南一带，但是在中国北方京津一带，及东北关外地方，有少数武术家以家族传承的方式在研习双手刀法" feature="1-1-0-0-1-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="倭刀" node_id="0" head_word="倭刀" sem_cat="" >
+			<sub_pattern node_id="0" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="法" node_id="34" head_word="法" sem_cat="" >
+			<sub_pattern node_id="34" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="有" pattern="SBV-n(A0)_Pred[有]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[有]_VOB-n(A)" taggedType="h" pred_id="22" tagged="false" instance="东北关外地方，有少数武术家以家族传承的方式" feature="0-1-0-1-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="东北关外地方" node_id="20" head_word="地方" sem_cat="" >
+			<sub_pattern node_id="20" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="少数武术家以家族传承的方式" node_id="24" head_word="武术家" sem_cat="" >
+			<sub_pattern node_id="24" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="70">
+	<origin_text>但第一项为盛装舞步赛，第二项为场地障碍赛，第三项为越野赛</origin_text>
+	<relation id="1" pred="赛" pattern="SBV-q(Dn)_ADV-为_POB-n(Cb)_Pred[赛]_VOB-n(A0)" syntax_pattern="SBV-q(A)_ADV-为_POB-n(A)_Pred[赛]_VOB-n(A)" taggedType="a" pred_id="14" tagged="false" instance="第二项为场地障碍赛" feature="1-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="第二项" node_id="9" head_word="项" sem_cat="Dn" >
+			<sub_pattern node_id="9" sem_pattern="SBV-q(Dn)" syn_pattern="SBV-q(A)" />
+		</argument>
+		<argument id="1" content="场地" node_id="11" head_word="场地" sem_cat="Cb" >
+			<sub_pattern node_id="11" sem_pattern="POB-n(Cb)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="10" sem_pattern="ADV-为" syn_pattern="ADV-为" />
+		</argument>
+		<argument id="2" content="" node_id="15" head_word="" sem_cat="" >
+			<sub_pattern node_id="15" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="71">
+	<origin_text>在1927年4月14日用于第一辆沃尔沃汽车?V4之前，它曾是一个滚珠轴承的品牌名称</origin_text>
+	<relation id="1" pred="用于" pattern="ADV-在_POB-t(Ca)_Pred[用于]_VOB-nx(A0)" syntax_pattern="ADV-在_POB-t(A)_Pred[用于]_VOB-nx(A)" taggedType="a" pred_id="4" tagged="false" instance="1927年4月14日用于第一辆沃尔沃汽车?V4" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="1927年4月14日" node_id="3" head_word="14日" sem_cat="Ca" >
+			<sub_pattern node_id="3" sem_pattern="POB-t(Ca)" syn_pattern="POB-t(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="1" content="第一辆沃尔沃汽车?V4" node_id="10" head_word="V4" sem_cat="" >
+			<sub_pattern node_id="10" sem_pattern="VOB-nx(A0)" syn_pattern="VOB-nx(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="是" pattern="ADV-f(Ca)_SBV-r(Ba)_Pred[是]" syntax_pattern="ADV-f(A)_SBV-r(A)_Pred[是]" taggedType="a" pred_id="15" tagged="true" instance="之前，它曾是" feature="0-1-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="之前" node_id="11" head_word="之前" sem_cat="Ca" >
+			<sub_pattern node_id="11" sem_pattern="ADV-f(Ca)" syn_pattern="ADV-f(A)" />
+		</argument>
+		<argument id="1" content="它" node_id="13" head_word="它" sem_cat="Ba" >
+			<sub_pattern node_id="13" sem_pattern="SBV-r(Ba)" syn_pattern="SBV-r(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="72">
+	<origin_text>2011年6月21日，潘一中与3位美女挑战自助餐：同样分量的食物，潘一中单独吃一份，三位美女合吃一份，最后比谁吃得多</origin_text>
+	<relation id="1" pred="挑战" pattern="ADV-t(Ca)_SBV-nr(Af)_ADV-与_POB-n(Af)_Pred[挑战]" syntax_pattern="ADV-t(A)_SBV-nr(A)_ADV-与_POB-n(A)_Pred[挑战]" taggedType="a" pred_id="9" tagged="true" instance="2011年6月21日，潘一中与3位美女挑战" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="2011年6月21日" node_id="2" head_word="21日" sem_cat="Ca" >
+			<sub_pattern node_id="2" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="潘一中" node_id="4" head_word="潘一中" sem_cat="Af" >
+			<sub_pattern node_id="4" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="2" content="3位美女" node_id="8" head_word="美女" sem_cat="Af" >
+			<sub_pattern node_id="8" sem_pattern="POB-n(Af)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="5" sem_pattern="ADV-与" syn_pattern="ADV-与" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="73">
+	<origin_text>5年的研究期间，他接触到了大量的国外污水处理的实践案例，对相关产品和技术也有了全面了解，这一切都为他日后回国创业奠定了基础</origin_text>
+	<relation id="1" pred="接触" pattern="ADV-f(Ca)_SBV-r(Af)_Pred[接触]_VOB-n(Da)" syntax_pattern="ADV-f(A)_SBV-r(A)_Pred[接触]_VOB-n(A)" taggedType="a" pred_id="7" tagged="true" instance="研究期间，他接触到了大量的国外污水处理的实践案例" feature="0-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="研究期间" node_id="4" head_word="期间" sem_cat="Ca" >
+			<sub_pattern node_id="4" sem_pattern="ADV-f(Ca)" syn_pattern="ADV-f(A)" />
+		</argument>
+		<argument id="1" content="他" node_id="6" head_word="他" sem_cat="Af" >
+			<sub_pattern node_id="6" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="2" content="实践案例" node_id="17" head_word="案例" sem_cat="Da" >
+			<sub_pattern node_id="17" sem_pattern="VOB-n(Da)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="74">
+	<origin_text>南山大学校园一角图3人文科学系：基督教专业、人类文化专业、心理学专业、日本文化专业；</origin_text>
+</sentence>
+<sentence id="75">
+	<origin_text>从酒店的特质与需求出发，有几个主要的考虑因素，这是我们在进行酒店灯光设计时，需要注意的要点：</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Dm)_Pred[de]_dobj-n(Dd)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="t" pred_id="2" tagged="true" instance="酒店的特质" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-1-0-0-0-0-0-1-0-0">
+		<argument id="0" content="酒店" node_id="1" head_word="酒店" sem_cat="Dm" >
+			<sub_pattern node_id="1" sem_pattern="nsubj-n(Dm)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="特质" node_id="3" head_word="特质" sem_cat="Dd" >
+			<sub_pattern node_id="3" sem_pattern="dobj-n(Dd)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="出发" pattern="ADV-从_POB-n(Dd)_ADV-与_POB-n(Df)_Pred[出发]" syntax_pattern="ADV-从_POB-n(A)_ADV-与_POB-n(A)_Pred[出发]" taggedType="a" pred_id="6" tagged="true" instance="特质与需求出发" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="特质" node_id="3" head_word="特质" sem_cat="Dd" >
+			<sub_pattern node_id="3" sem_pattern="POB-n(Dd)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="0" sem_pattern="ADV-从" syn_pattern="ADV-从" />
+		</argument>
+		<argument id="1" content="需求" node_id="5" head_word="需求" sem_cat="Df" >
+			<sub_pattern node_id="5" sem_pattern="POB-n(Df)" syn_pattern="POB-n(A)" />
+			<sub_pattern node_id="4" sem_pattern="ADV-与" syn_pattern="ADV-与" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="是" pattern="SBV-r(Ca)_Pred[是]_ATT-n(Dm)" syntax_pattern="SBV-r(A)_Pred[是]_ATT-n(A)" taggedType="a" pred_id="17" tagged="true" instance="这是我们在进行酒店" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="这" node_id="16" head_word="这" sem_cat="Ca" >
+			<sub_pattern node_id="16" sem_pattern="SBV-r(Ca)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="酒店" node_id="21" head_word="酒店" sem_cat="Dm" >
+			<sub_pattern node_id="21" sem_pattern="ATT-n(Dm)" syn_pattern="ATT-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="76">
+	<origin_text>Soul式唱腔似乎是黑人歌手的专利，他们有着优越的先天条件能够更好的诠释这种唱法</origin_text>
+	<relation id="1" pred="是" pattern="SBV-n(Dk)_Pred[是]_VOB-n(Di)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="4" tagged="true" instance="唱腔似乎是黑人歌手的专利" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="唱腔" node_id="2" head_word="唱腔" sem_cat="Dk" >
+			<sub_pattern node_id="2" sem_pattern="SBV-n(Dk)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="专利" node_id="8" head_word="专利" sem_cat="Di" >
+			<sub_pattern node_id="8" sem_pattern="VOB-n(Di)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="有" pattern="SBV-r(Af)_Pred[有]_VOB-n(A0)" syntax_pattern="SBV-r(A)_Pred[有]_VOB-n(A)" taggedType="h" pred_id="11" tagged="false" instance="他们有着优越的先天条件" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="他们" node_id="10" head_word="他们" sem_cat="Af" >
+			<sub_pattern node_id="10" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="先天条件" node_id="16" head_word="条件" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="77">
+	<origin_text>??恩替卡韦是环戊酰鸟苷类似物</origin_text>
+	<relation id="1" pred="is" pattern="SBV-nr(Af)_Pred[is]_VOB-n(A0)" syntax_pattern="SBV-nr(A)_Pred[is]_VOB-n" taggedType="h" pred_id="1" tagged="false" instance="仙人掌科和龙杏兰科" feature="0-0-1-0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0">
+		<argument id="0" content="恩替卡韦" node_id="1" head_word="恩替卡韦" sem_cat="Af" >
+			<sub_pattern node_id="1" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="1" content="??" node_id="0" head_word="??" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="是" pattern="SBV-nr(Af)_Pred[是]_SBV-n(A0)_VOB-_VOB-n(A1)" syntax_pattern="SBV-nr(A)_Pred[是]_SBV-n(A)_VOB-_VOB-n(A)" taggedType="a" pred_id="2" tagged="false" instance="恩替卡韦是环戊酰鸟苷类似物" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="恩替卡韦" node_id="1" head_word="恩替卡韦" sem_cat="Af" >
+			<sub_pattern node_id="1" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="1" content="环戊酰" node_id="3" head_word="环戊酰" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+			<sub_pattern node_id="4" sem_pattern="VOB-" syn_pattern="VOB-" />
+		</argument>
+		<argument id="2" content="鸟苷类似物" node_id="8" head_word="物" sem_cat="" >
+			<sub_pattern node_id="8" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="78">
+	<origin_text>优美衬词的烘托，洒脱泼辣的抒怀，唱白夹杂，歌舞并举，构成了《黄四姐》独特的地域性和民族性</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(A0)_Pred[de]_dobj-n(A1)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="2" tagged="false" instance="彝文翻译组的王子国" feature="1-0-1-0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0">
+		<argument id="0" content="优美衬词" node_id="1" head_word="衬词" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="nsubj-n(A0)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="烘托" node_id="3" head_word="烘托" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="dobj-n(A1)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	1
+	<relation id="2" pred="并举" pattern="TPC-n(A0)_SBV-n(A1)_Pred[并举]" syntax_pattern="TPC-n(A)_SBV-n(A)_Pred[并举]" taggedType="a" pred_id="15" tagged="false" instance="烘托，洒脱泼辣的抒怀，唱白夹杂，歌舞并举" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="烘托" node_id="3" head_word="烘托" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="TPC-n(A0)" syn_pattern="TPC-n(A)" />
+		</argument>
+		<argument id="1" content="歌舞" node_id="14" head_word="歌舞" sem_cat="" >
+			<sub_pattern node_id="14" sem_pattern="SBV-n(A1)" syn_pattern="SBV-n(A)" />
+		</argument>
+    </relation>
+    
+</sentence>
+<sentence id="79">
+	<origin_text>2011年，发生Damp;G禁止香港人摄影风波，有网民号召包围该店，黄夏蕙在包围前一日，与国际影星周润发胞姊、名摄影师周聪玲到店外拍照，以示对网民行动之支持</origin_text>
+	<relation id="1" pred="发生" pattern="ADV-t(Ca)_Pred[发生]_SBV-nr(Af)_VOB-支持" syntax_pattern="ADV-t(A)_Pred[发生]_SBV-nr(A)_VOB-支持" taggedType="a" pred_id="2" tagged="true" instance="2011年，发生Damp;G禁止香港人摄影风波，;有网民号召包围该店，黄夏蕙" feature="0-1-0-0-1-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="2011年" node_id="0" head_word="2011年" sem_cat="Ca" >
+			<sub_pattern node_id="0" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="黄夏蕙" node_id="21" head_word="黄夏蕙" sem_cat="Af" >
+			<sub_pattern node_id="21" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+			<sub_pattern node_id="48" sem_pattern="VOB-支持" syn_pattern="VOB-支持" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="禁止" pattern="SBV-ns(Cb)_ADV-nx(A0)_Pred[禁止]_VOB-n(Da)" syntax_pattern="SBV-ns(A)_ADV-nx(A)_Pred[禁止]_VOB-n(A)" taggedType="a" pred_id="8" tagged="false" instance=";G禁止香港人摄影风波" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content=";" node_id="6" head_word=";" sem_cat="Cb" >
+			<sub_pattern node_id="6" sem_pattern="SBV-ns(Cb)" syn_pattern="SBV-ns(A)" />
+		</argument>
+		<argument id="1" content="G" node_id="7" head_word="G" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="ADV-nx(A0)" syn_pattern="ADV-nx(A)" />
+		</argument>
+		<argument id="2" content="香港人摄影风波" node_id="12" head_word="风波" sem_cat="Da" >
+			<sub_pattern node_id="12" sem_pattern="VOB-n(Da)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="号召" pattern="SBV-n(A0)_Pred[号召]_VOB-包围_VOB-r(A1)" syntax_pattern="SBV-n(A)_Pred[号召]_VOB-包围_VOB-r(A)" taggedType="a" pred_id="17" tagged="false" instance="网民号召包围该店" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="网民" node_id="16" head_word="网民" sem_cat="" >
+			<sub_pattern node_id="16" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="该店" node_id="19" head_word="该店" sem_cat="" >
+			<sub_pattern node_id="19" sem_pattern="VOB-r(A1)" syn_pattern="VOB-r(A)" />
+			<sub_pattern node_id="18" sem_pattern="VOB-包围" syn_pattern="VOB-包围" />
+		</argument>
+	</relation>
+	
+	<relation id="4" pred="is" pattern="SBV-nr(Af)_Pred[is]_VOB-n(Af)" syntax_pattern="SBV-nr(A)_Pred[is]_VOB-n" taggedType="t" pred_id="31" tagged="true" instance="1月12日莱温斯基好友特里普" feature="0-0-1-0-0-1-0-0-0-1-0-0-0-0-1-0-1-0-0-0-0-0-0">
+		<argument id="0" content="周润发" node_id="31" head_word="周润发" sem_cat="Af" >
+			<sub_pattern node_id="31" sem_pattern="SBV-nr(Af)" syn_pattern="SBV-nr(A)" />
+		</argument>
+		<argument id="1" content="国际影星" node_id="30" head_word="影星" sem_cat="Af" >
+			<sub_pattern node_id="31" sem_pattern="VOB-n(Af)" syn_pattern="VOB-n" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="80">
+	<origin_text>第四节贯彻理解性和巩固性相结合原则的基本策略</origin_text>
+</sentence>
+<sentence id="81">
+	<origin_text>（九）组织、指导和协调环境保护宣传教育工作；负责环境保护培训教育王作；建立环境保护公众参与机制，推动公众和非政府组织参与环境保护；负责环境保护社会表彰和国际环境奖项的推选工作</origin_text>
+	<relation id="1" pred="负责" pattern="SBV-n(A0)_Pred[负责]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[负责]_VOB-n(A)" taggedType="a" pred_id="14" tagged="false" instance="组织、指导和协调环境保护宣传教育工作；负责环境保护培训教育王作" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="组织、指导和协调" node_id="7" head_word="协调" sem_cat="" >
+			<sub_pattern node_id="7" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="环境保护培训教育王作" node_id="19" head_word="王作" sem_cat="" >
+			<sub_pattern node_id="19" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="82">
+	<origin_text>白老说“自己的儿子学的是英语，搞的是旅游，没能成为鬃人的传人，但是作为京城鬃人绝技的唯一传人，他可不能让这门艺术瑰宝在自己手中断档</origin_text>
+</sentence>
+<sentence id="83">
+	<origin_text>当部队发现时，敌人已离我前沿阵地只有30多米，朴先锋迅速冲过去，指挥部队用机枪和手榴弹把敌人打了下去</origin_text>
+	<relation id="1" pred="发现" pattern="SBV-n(Di)_Pred[发现]_POB-n(Ca)" syntax_pattern="SBV-n(A)_Pred[发现]_POB-n(A)" taggedType="a" pred_id="2" tagged="true" instance="部队发现时" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1" isDeStructure="true">
+		<argument id="0" content="部队" node_id="1" head_word="部队" sem_cat="Di" >
+			<sub_pattern node_id="1" sem_pattern="SBV-n(Di)" syn_pattern="SBV-n(A)" />
+			<sub_pattern node_id="2" sem_pattern="ATT-发现" syn_pattern="ATT-发现" />
+			<sub_pattern node_id="3" sem_pattern="POB-n(Ca)" syn_pattern="POB-n(A)" />
+		</argument>
+		<argument id="1" content="时" node_id="3" head_word="时" sem_cat="Ca" >
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="离" pattern="SBV-n(Af)_Pred[离]_VOB-r(Af)" syntax_pattern="SBV-n(A)_Pred[离]_VOB-r(A)" taggedType="a" pred_id="7" tagged="true" instance="敌人已离我" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="敌人" node_id="5" head_word="敌人" sem_cat="Af" >
+			<sub_pattern node_id="5" sem_pattern="SBV-n(Af)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="我" node_id="8" head_word="我" sem_cat="Af" >
+			<sub_pattern node_id="8" sem_pattern="VOB-r(Af)" syn_pattern="VOB-r(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="有" pattern="SBV-_VOB-n(Cb)_Pred[有]_VOB-q(Dn)" syntax_pattern="SBV-_VOB-n(A)_Pred[有]_VOB-q(A)" taggedType="a" pred_id="14" tagged="true" instance="前沿阵地只有30多米" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="前沿阵地" node_id="11" head_word="阵地" sem_cat="Cb" >
+			<sub_pattern node_id="11" sem_pattern="VOB-n(Cb)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="9" sem_pattern="SBV-" syn_pattern="SBV-" />
+		</argument>
+		<argument id="1" content="30多米" node_id="17" head_word="米" sem_cat="Dn" >
+			<sub_pattern node_id="17" sem_pattern="VOB-q(Dn)" syn_pattern="VOB-q(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="84">
+	<origin_text>二、Alcell法（乙醇+水）有机溶剂制浆副产品的回收</origin_text>
+</sentence>
+<sentence id="85">
+	<origin_text>5、甘蔗产业在400亩的基础上，稳步发展</origin_text>
+	<relation id="1" pred="发展" pattern="SBV-n(Dj)_ADV-在_POB-f(A0)_Pred[发展]" syntax_pattern="SBV-n(A)_ADV-在_POB-f(A)_Pred[发展]" taggedType="a" pred_id="12" tagged="false" instance="甘蔗产业在400亩的基础上，稳步发展" feature="0-1-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="甘蔗产业" node_id="3" head_word="产业" sem_cat="Dj" >
+			<sub_pattern node_id="3" sem_pattern="SBV-n(Dj)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="基础上" node_id="9" head_word="上" sem_cat="" >
+			<sub_pattern node_id="9" sem_pattern="POB-f(A0)" syn_pattern="POB-f(A)" />
+			<sub_pattern node_id="4" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="86">
+	<origin_text>2、将本品与水按1：10（体积比）的比例混合，配成清除液加入到存水箱；对于顽固水垢可直接倒入原液，浸泡5-15分钟即可，轻松瓦解水垢</origin_text>
+	<relation id="2" pred="配成" pattern="SBV-n(A0)_Pred[配成]_VOB-加入_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[配成]_VOB-加入_VOB-n(A)" taggedType="a" pred_id="19" tagged="false" instance="10_（_体积_比_）_的_比例配成清除液加入到存水箱" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="10（体积比）的比例(Z)" node_id="18" head_word="10	（	体积	比	）	的	比例" sem_cat="" >
+			<sub_pattern node_id="18" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="存水箱" node_id="24" head_word="存水箱" sem_cat="" >
+			<sub_pattern node_id="24" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+			<sub_pattern node_id="22" sem_pattern="VOB-加入" syn_pattern="VOB-加入" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="87">
+	<origin_text>1.皮衣的搭配要保持风格和色调的统一，避免过于炫的色彩</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-n(Bq)_Pred[de]_dobj-n(A0)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="a" pred_id="3" tagged="false" instance="皮衣的搭配" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="皮衣" node_id="2" head_word="皮衣" sem_cat="Bq" >
+			<sub_pattern node_id="2" sem_pattern="nsubj-n(Bq)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="搭配" node_id="4" head_word="搭配" sem_cat="" >
+			<sub_pattern node_id="4" sem_pattern="dobj-n(A0)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="de" pattern="nsubj-n(Bg)_Pred[de]_dobj-n(A0)" syntax_pattern="nsubj-n(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="10" tagged="false" instance="风格和色调的统一" feature="0-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-1-0-0-0">
+		<argument id="0" content="风格和色调" node_id="9" head_word="色调" sem_cat="Bg" >
+			<sub_pattern node_id="9" sem_pattern="nsubj-n(Bg)" syn_pattern="nsubj-n(A)" />
+		</argument>
+		<argument id="1" content="统一" node_id="11" head_word="统一" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="dobj-n(A0)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="3" pred="保持" pattern="SBV-n(A0)_Pred[保持]_VOB-n(A1)" syntax_pattern="SBV-n(A)_Pred[保持]_VOB-n(A)" taggedType="a" pred_id="6" tagged="false" instance="搭配要保持风格和色调的统一" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="搭配" node_id="4" head_word="搭配" sem_cat="" >
+			<sub_pattern node_id="4" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="统一" node_id="11" head_word="统一" sem_cat="" >
+			<sub_pattern node_id="11" sem_pattern="VOB-n(A1)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="88">
+	<origin_text>1994年获市“教育教学英模”称号和市教坛“新星”称号；1995年获省“劳动模范”、“三八红旗手”称号；1996年获省“优秀教师”和滁县地区“十佳新闻人物”称号和曾宪梓教育基金会二等奖；1997年获省师德“十佳标兵”称号和省“五一劳动奖章并被破格直转为公办教师；1998年当选为全国劳动模范，并被授于“全国模范教师”称号；1999年获“中国当代创业英才”称号，同年7月18日被《人民日报》社新闻培训中心邀请参加“民族存亡与科教兴国”研讨会；2000年荣获中国“二十一世纪人才”称号</origin_text>
+	<relation id="1" pred="获" pattern="SBV-n(Dd)_ADV-t(Ca)_Pred[获]_VOB-n(Af)" syntax_pattern="SBV-n(A)_ADV-t(A)_Pred[获]_VOB-n(A)" taggedType="a" pred_id="18" tagged="true" instance="市“教育教学英模”称号和市教坛“新星”称号；1995年获省“劳动模范”" feature="0-0-0-0-1-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="市教育教学英模称号和市教坛新星称号" node_id="15" head_word="称号" sem_cat="Dd" >
+			<sub_pattern node_id="15" sem_pattern="SBV-n(Dd)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="1995年" node_id="17" head_word="1995年" sem_cat="Ca" >
+			<sub_pattern node_id="17" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="2" content="省劳动模范" node_id="21" head_word="劳动模范" sem_cat="Af" >
+			<sub_pattern node_id="21" sem_pattern="VOB-n(Af)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="89">
+	<origin_text>凤头蜂鹰的体色变化较大，但通过头侧短而硬的鳞片状羽和尾羽的数条暗色宽带斑，可以同其他猛禽相区别</origin_text>
+</sentence>
+<sentence id="90">
+	<origin_text>③唐朝时期有河东道，又设河东节度使，道治在蒲州，节度使治所在太原(今山西太原)</origin_text>
+	<relation id="1" pred="有" pattern="ADV-t(Ca)_ADV-n(Ca)_Pred[有]_VOB-n(A0)" syntax_pattern="ADV-t(A)_ADV-n(A)_Pred[有]_VOB-n(A)" taggedType="a" pred_id="3" tagged="false" instance="唐朝时期有河东道" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="唐朝" node_id="1" head_word="唐朝" sem_cat="Ca" >
+			<sub_pattern node_id="1" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="时期" node_id="2" head_word="时期" sem_cat="Ca" >
+			<sub_pattern node_id="2" sem_pattern="ADV-n(Ca)" syn_pattern="ADV-n(A)" />
+		</argument>
+		<argument id="2" content="河东道" node_id="4" head_word="河东道" sem_cat="" >
+			<sub_pattern node_id="4" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="91">
+	<origin_text>它建于1982年，是国内首批承办全国外语水平考试（WSK）以及TOEFL等美国考试的机构</origin_text>
+	<relation id="1" pred="建" pattern="SBV-r(Ba)_Pred[建]_CMP-于_POB-t(Ca)" syntax_pattern="SBV-r(A)_Pred[建]_CMP-于_POB-t(A)" taggedType="a" pred_id="1" tagged="true" instance="它建于1982年" feature="1-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="它" node_id="0" head_word="它" sem_cat="Ba" >
+			<sub_pattern node_id="0" sem_pattern="SBV-r(Ba)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="1982年" node_id="3" head_word="1982年" sem_cat="Ca" >
+			<sub_pattern node_id="3" sem_pattern="POB-t(Ca)" syn_pattern="POB-t(A)" />
+			<sub_pattern node_id="2" sem_pattern="CMP-于" syn_pattern="CMP-于" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="是" pattern="SBV-r(Ba)_Pred[是]_VOB-n(A0)" syntax_pattern="SBV-r(A)_Pred[是]_VOB-n(A)" taggedType="h" pred_id="6" tagged="false" instance="它是国内首批承办全国外语水平考试（WSK）以及TOEFL等美国考试的机构" feature="1-0-0-0-1-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="它(Z)" node_id="5" head_word="它" sem_cat="Ba" >
+			<sub_pattern node_id="5" sem_pattern="SBV-r(Ba)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="机构" node_id="26" head_word="机构" sem_cat="" >
+			<sub_pattern node_id="26" sem_pattern="VOB-n(A0)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="92">
+	<origin_text>看到他还是很善良的我很开心,和他一起度过了一段美好时光,可是有一天我发现他身上的魔气开始重了.</origin_text>
+	<relation id="1" pred="有" pattern="SBV-n(Ca)_Pred[有]_IOB-r(Af)" syntax_pattern="SBV-n(A)_Pred[有]_IOB-r(A)" taggedType="a" pred_id="21" tagged="true" instance="一段美好时光,可是有一天我发现他" feature="0-0-0-1-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="一段美好时光" node_id="18" head_word="时光" sem_cat="Ca" >
+			<sub_pattern node_id="18" sem_pattern="SBV-n(Ca)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一天我发现他" node_id="24" head_word="我" sem_cat="Af" >
+			<sub_pattern node_id="24" sem_pattern="IOB-r(Af)" syn_pattern="IOB-r(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="93">
+	<origin_text>以共同管理为导向、以多维沟通为纽带、以互助合作为桥梁、实现家园和谐共育</origin_text>
+</sentence>
+<sentence id="94">
+	<origin_text>国道6号国道49号国道289号国道349号国道399号</origin_text>
+</sentence>
+<sentence id="95">
+	<origin_text>封印之地★此处也有个「转位门装置」可使用</origin_text>
+	<relation id="1" pred="有" pattern="ADV-n(A0)_SBV-r(Cb)_Pred[有]_VOB-n(Ba)" syntax_pattern="ADV-n(A)_SBV-r(A)_Pred[有]_VOB-n(A)" taggedType="a" pred_id="6" tagged="false" instance="地★此处也有个「转位门装置" feature="0-0-1-0-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="地" node_id="2" head_word="地" sem_cat="" >
+			<sub_pattern node_id="2" sem_pattern="ADV-n(A0)" syn_pattern="ADV-n(A)" />
+		</argument>
+		<argument id="1" content="此处" node_id="4" head_word="此处" sem_cat="Cb" >
+			<sub_pattern node_id="4" sem_pattern="SBV-r(Cb)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="2" content="个「转位门装置" node_id="10" head_word="装置" sem_cat="Ba" >
+			<sub_pattern node_id="10" sem_pattern="VOB-n(Ba)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="96">
+	<origin_text>”Logo的上半部是一轮红日，下半部似横斜的“弋”字英文首字母“Y”，又似一条奔腾的河流</origin_text>
+	<relation id="1" pred="de" pattern="nsubj-nx(A0)_Pred[de]_dobj-n(A1)" syntax_pattern="nsubj-nx(A)_Pred[de]_dobj-n(A)" taggedType="h" pred_id="2" tagged="false" instance="Logo的上半部" feature="0-0-1-0-0-1-0-0-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0">
+		<argument id="0" content="Logo" node_id="1" head_word="Logo" sem_cat="" >
+			<sub_pattern node_id="1" sem_pattern="nsubj-nx(A0)" syn_pattern="nsubj-nx(A)" />
+		</argument>
+		<argument id="1" content="上半部" node_id="3" head_word="上半部" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="dobj-n(A1)" syn_pattern="dobj-n(A)" />
+		</argument>
+	</relation>
+	
+	<relation id="2" pred="是" pattern="SBV-n(A0)_Pred[是]_VOB-n(Bd)" syntax_pattern="SBV-n(A)_Pred[是]_VOB-n(A)" taggedType="a" pred_id="4" tagged="false" instance="上半部是一轮红日" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-1-0">
+		<argument id="0" content="上半部" node_id="3" head_word="上半部" sem_cat="" >
+			<sub_pattern node_id="3" sem_pattern="SBV-n(A0)" syn_pattern="SBV-n(A)" />
+		</argument>
+		<argument id="1" content="一轮红日" node_id="7" head_word="红日" sem_cat="Bd" >
+			<sub_pattern node_id="7" sem_pattern="VOB-n(Bd)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="97">
+	<origin_text>随即，麦洛透露出的惊人信息拉开了整个故事的序幕：原来他是来请安德鲁“割爱”，在离婚协议书上签书，将年轻的娇妻让给自己</origin_text>
+	<relation id="1" pred="是" pattern="SBV-r(Af)_Pred[是]_VOB-请_VOB-nr(Af)" syntax_pattern="SBV-r(A)_Pred[是]_VOB-请_VOB-nr(A)" taggedType="a" pred_id="17" tagged="true" instance="他是来请安德鲁" feature="0-0-1-0-0-1-0-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="他" node_id="16" head_word="他" sem_cat="Af" >
+			<sub_pattern node_id="16" sem_pattern="SBV-r(Af)" syn_pattern="SBV-r(A)" />
+		</argument>
+		<argument id="1" content="安德鲁" node_id="20" head_word="安德鲁" sem_cat="Af" >
+			<sub_pattern node_id="20" sem_pattern="VOB-nr(Af)" syn_pattern="VOB-nr(A)" />
+			<sub_pattern node_id="19" sem_pattern="VOB-请" syn_pattern="VOB-请" />
+		</argument>
+	</relation>
+	
+</sentence>
+<sentence id="98">
+	<origin_text>以“老”衬“狂”，更表现出作者壮心未已的英雄本色</origin_text>
+</sentence>
+<sentence id="99">
+	<origin_text>1945年1月20日，在莫斯科缔结了停战协定，从而为建立真正独立、民主的匈牙利奠定了基础，打破了西方集团在这里保留资本主义制度的企图</origin_text>
+	<relation id="1" pred="缔结" pattern="ADV-t(Ca)_ADV-在_POB-ns(Cb)_Pred[缔结]_VOB-n(Di)" syntax_pattern="ADV-t(A)_ADV-在_POB-ns(A)_Pred[缔结]_VOB-n(A)" taggedType="a" pred_id="6" tagged="true" instance="1945年1月20日，在莫斯科缔结了停战协定" feature="1-1-0-1-0-0-1-0-0-0-0-0-1-0-0-0-0-0-0-0-0-0-1">
+		<argument id="0" content="1945年1月20日" node_id="2" head_word="20日" sem_cat="Ca" >
+			<sub_pattern node_id="2" sem_pattern="ADV-t(Ca)" syn_pattern="ADV-t(A)" />
+		</argument>
+		<argument id="1" content="莫斯科" node_id="5" head_word="莫斯科" sem_cat="Cb" >
+			<sub_pattern node_id="5" sem_pattern="POB-ns(Cb)" syn_pattern="POB-ns(A)" />
+			<sub_pattern node_id="4" sem_pattern="ADV-在" syn_pattern="ADV-在" />
+		</argument>
+		<argument id="2" content="停战协定" node_id="9" head_word="协定" sem_cat="Di" >
+			<sub_pattern node_id="9" sem_pattern="VOB-n(Di)" syn_pattern="VOB-n(A)" />
+		</argument>
+	</relation>
+	1
+</sentence>
+<sentence id="100">
+	<origin_text>英文标题EnglishTitle：Thefog</origin_text>
+</sentence>
+</doc>

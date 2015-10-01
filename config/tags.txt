@@ -1,0 +1,40 @@
+AD	adverbs	����
+AS	Aspect marker	��̬�ʣ����ǣ����磺�ˣ��ڣ��ţ�����
+BA	�� in ba-const	���ѡ����������Ĵ��Ա��
+CC	Coordinating conjunction	�������ʣ����͡�
+CD	Cardinal numbers	���֣���һ�١�
+CS	Subordinating conj	�������� �����ӣ�����������硭��
+DEC	�� for relative-clause etc	���ġ����Ա��
+DEG	Associative ��	����ʡ��ġ�
+DER	�� in V-de construction, and V-de-R	���á�
+DEV	�� before VP	��
+DT	Determiner	�޶��ʣ����⡱
+ETC	Tag for words �ȣ��ȵ� in coordination phrase	�ȣ��ȵ�
+FW	Foreign words	���ӣ�ISO
+IJ	interjection	��̾��
+JJ	Noun-modifier other than nouns
+LB	�� in long bei-construction	���ӣ�������
+LC	Localizer	��λ�ʣ����ӣ����
+M	Measure word (including classifiers)	���ʣ����ӣ�������
+MSP	Some particles	���ӣ�������
+NN	Common nouns	��ͨ����
+NR	Proper nouns	ר������
+NT	Temporal nouns	ʱ��ʣ���ʾʱ�������
+OD	Ordinal numbers	�����ʣ�����һ��
+ON	Onomatopoeia	�����ʣ���������
+P	Prepositions (excluding �� and ��)	���
+PN	pronouns	����
+PU	Punctuations	���
+SB	��in long bei-construction	���ӣ�����������
+SP	Sentence-final particle	��βСƷ�ʣ�����
+VA	Predicative adjective	�������ݴʣ����족
+VC	Copula ��	ϵ���ʣ����ǡ�
+VE	�� as the main verb	���С�
+VV	Other verbs	��������
+DUN	dun hao
+YIN	shuang yin hao
+SYIN	dan yin hao
+KUOL	zuo kuo hao
+KUOR	you kuo hao
+SHUL	zuo shu ming hao
+SHUR	you shu ming hao
